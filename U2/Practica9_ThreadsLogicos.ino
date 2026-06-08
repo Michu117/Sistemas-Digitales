@@ -34,8 +34,7 @@ void setup()
     Serial.begin(9600);
 
     Serial.println("=================================");
-    Serial.println("Sistema IoT iniciado");
-    Serial.println("Multitarea Cooperativa con millis()");
+    Serial.println("Sistema iniciado");
     Serial.println("=================================");
 }
 
