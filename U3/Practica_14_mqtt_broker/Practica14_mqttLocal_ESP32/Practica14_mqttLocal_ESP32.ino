@@ -4,8 +4,8 @@
 #include <DHT.h>
 
 //====================== WiFi ======================
-const char* ssid = "Internet_UNL"; // Internet_UNL - MoranSanchez
-const char* password = "UNL1859WiFi"; // UNL1859WiFi - 0702594508
+const char* ssid = "Internet_UNL"; 
+const char* password = "UNL1859WiFi"; 
 
 //====================== MQTT ======================
 IPAddress mqtt_server;
